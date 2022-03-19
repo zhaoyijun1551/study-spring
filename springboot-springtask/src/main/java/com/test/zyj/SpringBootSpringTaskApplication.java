@@ -8,4 +8,5 @@ public class SpringBootSpringTaskApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringBootSpringTaskApplication.class,args);
     }
+
 }
